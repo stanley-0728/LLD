@@ -53,10 +53,7 @@ This repository covers all **23 design patterns** from the **Gang of Four (GoF)*
 Apart from theoretical knowledge, this repository includes **real-world problem-solving** to demonstrate how design patterns can be applied effectively.
 
 ### Example Problems
-- Implementing a **thread-safe** Singleton Logger.
-- Designing a **payment processing system** using the Strategy pattern.
-- Creating a **notification service** that supports email, SMS, and push notifications via the Observer pattern.
-- Building a **file system hierarchy** using the Composite pattern.
+- Design Parking Lot
 
 
 1. **Navigate through the folders** to explore each design pattern.
